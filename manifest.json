@@ -1,0 +1,13 @@
+{
+  "name": "Línea del Tiempo de Importaciones",
+  "id": "timeline_importaciones",
+  "vendor": {
+    "name": "Gallery Vintage"
+  },
+  "components": {
+    "visualization": {
+      "script": "index.js",
+      "useChartingLibrary": false
+    }
+  }
+}
